@@ -1,0 +1,7 @@
+﻿bcrypt
+Flask
+Flask-Limiter
+validators
+werkzeug
+gunicorn
+utils
